@@ -2,9 +2,13 @@
  * A saveAs() FileSaver implementation.
  * 1.1.20151003
  *
- * By Eli Grey, http://eligrey.com
+ * Originally by Eli Grey, http://eligrey.com
  * License: MIT
  *   See https://github.com/eligrey/FileSaver.js/blob/master/LICENSE.md
+ *
+ * Adopted by Jukka Paulin
+ *  History: 
+ *  111215 Howdy world. The change to make a commit event in my fork
  */
 
 /*global self */
